@@ -1,6 +1,6 @@
-from api.common.method import jiekou
-from api.common.method import write_case
-from api.common.method import read_case
+from common.method import jiekou
+from common.method import write_case
+from common.method import read_case
 # 完整流程
 file_name = 'testcase_api_wuye.xlsx'
 sheet_name = 'register'
